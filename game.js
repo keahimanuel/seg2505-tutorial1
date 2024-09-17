@@ -1,3 +1,5 @@
+//Modification of game.js added 
+
 // Canvas Asteroids
 //
 // Copyright (c) 2010 Doug McInnes
